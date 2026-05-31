@@ -3,7 +3,7 @@ El circuito comunicativo es un plan de clase estructurado para enseñar cómo se
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Patrulla  [Nombre del Grupo]**
+**Plano comunicativo – Patrulla  [Pumas exploradores]**
 
 ---
 
