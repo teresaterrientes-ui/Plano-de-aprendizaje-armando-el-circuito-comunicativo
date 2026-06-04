@@ -152,8 +152,8 @@ Se dan cuando hay diferencias de costumbres o formas de pensar.
     💻 F. Barreras tecnológicas
 
 Problemas con dispositivos o plataformas digitales.
+Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 
-   Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 ---
 
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
