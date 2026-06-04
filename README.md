@@ -26,11 +26,25 @@
 - **Representación en clases virtuales:**
 El estudiante sigue un recorrido secuencial y estructurado, avanzando paso a paso a través de módulos, contenidos y actividades previamente organizadas.
 - **Ejemplo en nuestro contexto:**
+En una plataforma educativa, el estudiante debe avanzar de manera secuencial por cada módulo del curso. Por ejemplo, primero debe leer el contenido teórico, luego observar un video explicativo, posteriormente realizar una actividad y finalmente presentar una evaluación para poder acceder al siguiente tema.
 
+Estructura de enseñanza
+Docente → Contenido → Estudiante
+Plataforma virtual → Contenido (video/PDF) → Estudiante → Entrega de tarea
+
+Este modelo sigue un orden estructurado y organizado, en el que cada etapa depende de la anterior para continuar el proceso de aprendizaje.
 
 ### 🔄 Modelo Interactivo
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:**
+Promueve la participación activa del estudiante mediante foros, videoconferencias, cuestionarios y recursos multimedia. 
+- **Ejemplo en nuestro contexto:**
+El docente entra a la plataforma y abre un tema de discusión. En lugar de solo dejar una lectura, invita a los estudiantes a participar en un foro.Cada estudiante lee el tema y escribe su opinión. Luego, no termina ahí: los compañeros pueden responder, estar de acuerdo, aportar ejemplos o hacer preguntas sobre lo que otros escribieron. El docente entra al foro, comenta algunas ideas, corrige conceptos y hace nuevas preguntas para profundizar.
+Después, los estudiantes vuelven a participar, mejoran sus respuestas o amplían sus ideas con lo aprendido en las respuestas de los demás.
+
+Estructura de enseñanza
+Estudiante ↔ Plataforma ↔ Docente ↔ Estudiante
+
+El foro es interactivo porque el aprendizaje no ocurre en un solo paso. Todos participan, se responden entre sí y el conocimiento se va construyendo poco a poco con la ayuda del grupo y el docente.
 
 ### 🧠 Modelo Constructivista
 - **Representación en clases virtuales:**  
