@@ -56,7 +56,7 @@ Después, los estudiantes vuelven a participar, mejoran sus respuestas o amplía
 
 En el foro tipo interactivo, el aprendizaje no ocurre en un solo paso. Todos participan, se responden entre sí y el conocimiento se va construyendo poco a poco con la ayuda del grupo y el docente.
 
-### 🧠 Modelo Constructivista
+### 🧠 Modelo Constructivista 
 
   - **Representación en clases virtuales:**
 
