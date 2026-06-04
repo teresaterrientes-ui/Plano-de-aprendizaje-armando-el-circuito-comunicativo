@@ -115,34 +115,40 @@ Ejemplos: redes sociales, plataformas educativas como Google Classroom y Moodle.
 
 Los obstáculos de la comunicación hacen que el mensaje no se entienda bien o se pierda información entre las personas.
 
-   🔊 A. Ruido
+    🔊 A. Ruido
 
 Son sonidos o distracciones que impiden escuchar bien el mensaje.
+
 Ejemplo: música alta durante una conversación.
 
-   🧠 B. Barreras psicológicas
+    🧠 B. Barreras psicológicas
 
 Son emociones o estados de ánimo que afectan la comprensión.
+
 Ejemplo: estar enojado o distraído.
 
-   🌐 C. Barreras semánticas
+    🌐 C. Barreras semánticas
 
 Ocurren cuando no se entiende el significado de las palabras.
+
 Ejemplo: uso de palabras técnicas o desconocidas.
 
-   🌍 D. Barreras físicas
+    🌍 D. Barreras físicas
 
 Son problemas del entorno o distancia.
+
 Ejemplo: mala señal de internet o estar lejos de la otra persona.
 
-   🏛️ E. Barreras culturales
+    🏛️ E. Barreras culturales
 
 Se dan cuando hay diferencias de costumbres o formas de pensar.
+
 Ejemplo: expresiones que tienen distinto significado en otros países.
 
-   💻 F. Barreras tecnológicas
+    💻 F. Barreras tecnológicas
 
 Problemas con dispositivos o plataformas digitales.
+
 Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 ---
 
