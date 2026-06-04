@@ -23,8 +23,10 @@
 ## 🔍 3️⃣ Exploración de modelos de comunicación
 
 ### 📡 Modelo Lineal
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:**
+El estudiante sigue un recorrido secuencial y estructurado, avanzando paso a paso a través de módulos, contenidos y actividades previamente organizadas.
+- **Ejemplo en nuestro contexto:**
+
 
 ### 🔄 Modelo Interactivo
 - **Representación en clases virtuales:**  
