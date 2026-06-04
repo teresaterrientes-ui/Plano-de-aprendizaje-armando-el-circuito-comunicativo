@@ -17,12 +17,8 @@
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
-|        |               |                   |
-|        |               |                   |
-|        |               |                   |
+|Teresa  |               |                   |   
 
----
 
 ## 🔍 3️⃣ Exploración de modelos de comunicación
 
