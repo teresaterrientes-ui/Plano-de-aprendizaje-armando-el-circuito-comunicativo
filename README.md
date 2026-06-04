@@ -74,7 +74,19 @@ El docente plantea un tema en una plataforma, donde cada estudiante entra a un f
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores?  
+- ❓ ¿Qué roles asumimos como emisores y receptores?
+La comunicación interpersonal se centra en el intercambio de mensajes entre dos personas. Como emisor y receptor asumimos roles activos y dinámicos que se intercambian constantemente en el proceso de la comunicación
+
+  **EMISOR**
+  
+Codifica el mensaje: Traduce sus ideas, pensamientos o intenciones en un código comprensible (palabras, gestos o símbolos). 
+Inicia la comunicación: Elige el propósito del mensaje y el canal adecuado para transmitirlo (habla, texto, correo).
+
+  **RECEPTOR**
+  
+Rol del ReceptorDecodifica el mensaje: Recibe los signos y los interpreta, dándoles sentido a partir de su propio contexto y experiencias.
+Escucha activa: Presta atención al mensaje para lograr la comprensión exacta de lo que el emisor quiso transmitir
+  
 - 📱 ¿Qué medios utilizamos?  
 - ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
 
