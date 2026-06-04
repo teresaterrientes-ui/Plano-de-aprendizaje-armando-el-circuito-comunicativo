@@ -90,22 +90,22 @@ Escucha activa: Presta atención al mensaje para lograr la comprensión exacta d
   
 **📱 ¿Qué medios utilizamos?**
 
-   A. Medios orales
+    A. Medios orales
 
 Son los que transmiten información usando la voz.
 Ejemplos: conversaciones, llamadas telefónicas, videollamadas.
 
-   B.✍️ Medios escritos
+    B.✍️ Medios escritos
 
 Son los que comunican mediante texto o escritura.
 Ejemplos: cartas, correos electrónicos, mensajes de WhatsApp.
 
-   C.📺 Medios audiovisuales
+    C.📺 Medios audiovisuales
 
 Transmiten información con imagen y sonido al mismo tiempo.
 Ejemplos: televisión, videos de YouTube, videoconferencias.
 
-   D.🌐 Medios digitales
+    D.🌐 Medios digitales
 
 Son los que usan internet y tecnología para comunicarse rápidamente.
 Ejemplos: redes sociales, plataformas educativas como Google Classroom y Moodle.
