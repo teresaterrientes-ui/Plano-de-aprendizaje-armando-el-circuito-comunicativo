@@ -15,9 +15,9 @@
 
 ## 👥 2️⃣ Integrantes del grupo
 
-| Nombre | Rol en el grupo | Correo / Contacto |
-|--------|---------------|-------------------|
-|Teresa  |               |                   |   
+| Nombre | Rol en el grupo   | Correo / Contacto                  |
+|--------|---------------|    ------------------|
+|Teresa  | Pumas exploradores| terrientesteresamaria130@gmail.com |   
 
 
 ## 🔍 3️⃣ Exploración de modelos de comunicación
