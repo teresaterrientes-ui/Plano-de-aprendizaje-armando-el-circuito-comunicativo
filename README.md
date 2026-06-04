@@ -88,7 +88,7 @@ Inicia la comunicación: Elige el propósito del mensaje y el canal adecuado par
 Rol del ReceptorDecodifica el mensaje: Recibe los signos y los interpreta, dándoles sentido a partir de su propio contexto y experiencias.
 Escucha activa: Presta atención al mensaje para lograr la comprensión exacta de lo que el emisor quiso transmitir
   
-**📱 ¿Qué medios utilizamos?**
+**📱 ¿QUÉ MEDIOS UTILIZAMOS?**
 
     A. Medios orales
 
