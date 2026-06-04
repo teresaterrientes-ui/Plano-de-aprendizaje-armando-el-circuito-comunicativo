@@ -34,7 +34,7 @@ En una plataforma educativa, el estudiante debe avanzar de manera secuencial por
 
 **ESTRUCTURA DE ENSEÑANZA**
 
-Docente → Contenido → Estudiante
+          Docente → Contenido → Estudiante
 Plataforma virtual → Contenido (video/PDF) → Estudiante → Entrega de tarea
 
 Este modelo sigue un orden estructurado y organizado, en el que cada etapa depende de la anterior para continuar el proceso de aprendizaje.
@@ -43,7 +43,7 @@ Este modelo sigue un orden estructurado y organizado, en el que cada etapa depen
 
 - **Representación en clases virtuales:**
 
-Promueve la participación activa del estudiante mediante foros, videoconferencias, cuestionarios y recursos multimedia. 
+ Promueve la participación activa del estudiante mediante foros, videoconferencias, cuestionarios y recursos multimedia. 
 
 - **Ejemplo en nuestro contexto:**
 
