@@ -93,22 +93,26 @@ Escucha activa: Presta atención al mensaje para lograr la comprensión exacta d
     A. Medios orales
 
 Son los que transmiten información usando la voz.
-Ejemplos: conversaciones, llamadas telefónicas, videollamadas.
+
+   Ejemplos: conversaciones, llamadas telefónicas, videollamadas.
 
     B.✍️ Medios escritos
 
 Son los que comunican mediante texto o escritura.
-Ejemplos: cartas, correos electrónicos, mensajes de WhatsApp.
+
+   Ejemplos: cartas, correos electrónicos, mensajes de WhatsApp.
 
     C.📺 Medios audiovisuales
 
 Transmiten información con imagen y sonido al mismo tiempo.
-Ejemplos: televisión, videos de YouTube, videoconferencias.
+
+   Ejemplos: televisión, videos de YouTube, videoconferencias.
 
     D.🌐 Medios digitales
 
 Son los que usan internet y tecnología para comunicarse rápidamente.
-Ejemplos: redes sociales, plataformas educativas como Google Classroom y Moodle.
+
+   Ejemplos: redes sociales, plataformas educativas como Google Classroom y Moodle.
 
   
 **⚠️ ¿Qué obstáculos interfieren en la comunicación?**
@@ -119,37 +123,37 @@ Los obstáculos de la comunicación hacen que el mensaje no se entienda bien o s
 
 Son sonidos o distracciones que impiden escuchar bien el mensaje.
 
-Ejemplo: música alta durante una conversación.
+   Ejemplo: música alta durante una conversación.
 
     🧠 B. Barreras psicológicas
 
 Son emociones o estados de ánimo que afectan la comprensión.
 
-Ejemplo: estar enojado o distraído.
+   Ejemplo: estar enojado o distraído.
 
     🌐 C. Barreras semánticas
 
 Ocurren cuando no se entiende el significado de las palabras.
 
-Ejemplo: uso de palabras técnicas o desconocidas.
+   Ejemplo: uso de palabras técnicas o desconocidas.
 
     🌍 D. Barreras físicas
 
 Son problemas del entorno o distancia.
 
-Ejemplo: mala señal de internet o estar lejos de la otra persona.
+   Ejemplo: mala señal de internet o estar lejos de la otra persona.
 
     🏛️ E. Barreras culturales
 
 Se dan cuando hay diferencias de costumbres o formas de pensar.
 
-Ejemplo: expresiones que tienen distinto significado en otros países.
+   Ejemplo: expresiones que tienen distinto significado en otros países.
 
     💻 F. Barreras tecnológicas
 
 Problemas con dispositivos o plataformas digitales.
 
-Ejemplo: falla en una videollamada en Google Classroom o Moodle.
+   Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 ---
 
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
