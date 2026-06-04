@@ -29,6 +29,7 @@ El estudiante sigue un recorrido secuencial y estructurado, avanzando paso a pas
 En una plataforma educativa, el estudiante debe avanzar de manera secuencial por cada módulo del curso. Por ejemplo, primero debe leer el contenido teórico, luego observar un video explicativo, posteriormente realizar una actividad y finalmente presentar una evaluación para poder acceder al siguiente tema.
 
 Estructura de enseñanza
+
 Docente → Contenido → Estudiante
 Plataforma virtual → Contenido (video/PDF) → Estudiante → Entrega de tarea
 
@@ -42,6 +43,7 @@ El docente entra a la plataforma y abre un tema de discusión. En lugar de solo 
 Después, los estudiantes vuelven a participar, mejoran sus respuestas o amplían sus ideas con lo aprendido en las respuestas de los demás.
 
 Estructura de enseñanza
+
 Estudiante ↔ Plataforma ↔ Docente ↔ Estudiante
 
 El foro es interactivo porque el aprendizaje no ocurre en un solo paso. Todos participan, se responden entre sí y el conocimiento se va construyendo poco a poco con la ayuda del grupo y el docente.
