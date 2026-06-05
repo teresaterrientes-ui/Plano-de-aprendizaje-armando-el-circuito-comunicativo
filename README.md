@@ -1,7 +1,11 @@
+PLANOS-DEL-APRENDIZAJE
+
+Repositorio para planos de aprendizaje.
+
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Patrulla  [Pumas exploradores]**
+**Plano comunicativo – Patrulla Pumas exploradores**
 
 ---
 
