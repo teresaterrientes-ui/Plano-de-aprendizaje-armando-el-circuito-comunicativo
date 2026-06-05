@@ -127,7 +127,7 @@ Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
 
-| Elemento            | Quién / Qué |         Detalles / Ejemplos                          |      Representación visual                        |
+| Elemento            | Quién / Qué |         Detalles / Ejemplos                          |Representación visual|
 |                     |             |     Envía o transmite el mensaje en una comunicación.| 
 |--------------------|------------|----------------------------------------------------------|----------------------|
 | 🔊 **Emisor**       |            |                                                          |                      |
