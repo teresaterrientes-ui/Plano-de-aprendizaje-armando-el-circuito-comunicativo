@@ -96,7 +96,7 @@ Los obstáculos de la comunicación hacen que el mensaje no se entienda bien o s
 
 Son sonidos o distracciones que impiden escuchar bien el mensaje.
 
-   Ejemplo: música alta durante una conversación.
+   Ejemplo: música alta durante una conversación. 
 
     🧠 B. Barreras psicológicas
 
