@@ -129,11 +129,11 @@ Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 
 | Elemento            | Quién / Qué |         Detalles / Ejemplos       |Representación visual|
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       | Docente/ Estudiante            |     Envía o transmite el mensaje en una comunicación  |                      | 
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔊 **Emisor**       | Docente/ Estudiante |     Envía o transmite el mensaje en una comunicación  |                      | 
+| 👂 **Receptor**     |   Estudiantes |     Quien recibe la información y trata de comprenderla.  |                      |
+| 🌐 **Canal**        |  Vía de comunicación digital| Moodle, Zoom,Chats, correos electrónicos o videollamadas  |                      |
+| ⚠️ **Ruido**        |  Interferencias comunicativas virtuales| Audio entrecortado en videollamadas, mala conexión a internet|            |
+| 🔁 **Retroalimentación** | Interacción y mejora | Es el intercambio de respuestas, opiniones y observaciones que permite mejorar la comprensión y el aprendizaje|                      |
 
 ---
 
