@@ -129,7 +129,7 @@ Ejemplo: falla en una videollamada en Google Classroom o Moodle.
 
 | Elemento            | Quién / Qué |         Detalles / Ejemplos                          |Representación visual|
 |--------------------|------------|----------------------------------------------------------|----------------------|
-|                                          Envía o transmite el mensaje en una comunicación
+|                    |            |        Envía o transmite el mensaje en una comunicación  |                      | 
 🔊 **Emisor**       |            |                                                          |                      |
 | 👂 **Receptor**     |            |                                                          |                      |
 | 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
