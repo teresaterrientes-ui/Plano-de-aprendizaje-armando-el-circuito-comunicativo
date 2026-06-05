@@ -29,11 +29,9 @@ Repositorio para planos de aprendizaje.
 ### 📡 Modelo Lineal
 
    - **Representación en clases virtuales:**
-
 El estudiante sigue un recorrido secuencial y estructurado, avanzando paso a paso a través de módulos, contenidos y actividades previamente organizadas.
 
    - **Ejemplo en nuestro contexto:**
-
 En una plataforma educativa, el estudiante debe avanzar de manera secuencial por cada módulo del curso. Donde primero debe leer el contenido teórico, luego observar un video explicativo, posteriormente realizar una actividad y finalmente presentar una evaluación para poder acceder al siguiente tema.
 
 **ESTRUCTURA DE ENSEÑANZA**
@@ -46,11 +44,9 @@ Este modelo sigue un orden estructurado y organizado, en el que cada etapa depen
 ### 🔄 Modelo Interactivo
 
    - **Representación en clases virtuales:**
-
  Promueve la participación activa del estudiante mediante videollamadas, cuestionarios y recursos multimedia. 
 
    - **Ejemplo en nuestro contexto:**
-
 El docente realiza una videollamada Google Meet. Los estudiantes hacen preguntas en tiempo real, responden actividades y conversan con el docente durante la clase.
 
 **ESTRUCTURA DE ENSEÑANZA**
@@ -62,11 +58,9 @@ En el foro tipo interactivo, el aprendizaje no ocurre en un solo paso. Todos par
 ### 🧠 Modelo Constructivista  
 
   - **Representación en clases virtuales:**
-
 Es un enfoque educativo que sostiene que el estudiante construye activamente su propio conocimiento a partir de sus experiencias previas, la interacción con otros y la reflexión sobre lo aprendido.
   
   - **Ejemplo en nuestro contexto:**
-
 El docente plantea un tema en una plataforma, donde cada estudiante entra a un foro en la plataforma digital Moodle y escribe su experiencia personal, es allí donde existe un intercambio de información entre compañeros, se hacen comparaciones, modificaciones, infliuyendo en la mejora de las ideas a medida que se da el intercambio. El docente no da una única respuesta correcta, sino que hace distintas preguntas. Así, los estudiantes van construyendo su propio conocimiento con base en la experiencia, la reflexión y la interacción.
 
 **ESTRUCTURA DE ENSEÑANZA**
