@@ -69,7 +69,7 @@ El docente plantea un tema en una plataforma, donde cada estudiante entra a un f
 
 ---
 
-   ### 💡 Reflexión
+   💡 Reflexión
 
 **❓¿Qué roles asumimos como emisores y receptores?**
 
